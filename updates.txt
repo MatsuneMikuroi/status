@@ -1,0 +1,6 @@
+# Updates shown on the status page, newest at the bottom. One per line: the time
+# it was posted, a space, then the message. The status-post script adds lines
+# for you. To add one by hand (on github.com, from a phone), copy this format:
+#   2026-10-20 07:42 We're aware the server is down and are looking into it.
+# A time without +02:00 at the end is read as the visitor's local time.
+# Lines starting with # are ignored, and updates older than 7 days are hidden.
